@@ -16,4 +16,8 @@ bash install.sh
 python test.py
 ```
 
-# The code will be updated soon.
+## Acknowledgement
+Thanks for previous works [PC2-PU](https://github.com/chenlongwhu/PC2-PU), as our codebase are mainly based on them.
+Thanks for the reviewers' valuable comments on this paper.
+
+## The code will be updated soon.
